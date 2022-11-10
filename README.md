@@ -1,6 +1,4 @@
-A 19 years old French student in computer science.
-CoT-Games co-founder.
-https://github.com/CoT-Games
+A 20 years old French student in computer science.
 
 <!---
 VictorDelattre/VictorDelattre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
