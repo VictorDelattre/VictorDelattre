@@ -1,4 +1,4 @@
-A 20 years old French student in computer science.
+Computer Science Student.
 
 <!---
 VictorDelattre/VictorDelattre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
