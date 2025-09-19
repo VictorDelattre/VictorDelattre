@@ -1,6 +1,6 @@
 # Victor Delattre
 
-Software engineer who builds **fast, minimal, dependency-light** software--mostly in **C++** and **Rust**.
+Software engineer who builds **fast, minimal, dependency-light** software--mostly in **C/C++** and **Rust**.
 I enjoy **graphics & rendering**, **game engines/tooling**, and **systems programming** (Linux-first).
 
 - 🌐 Website: [victordelattre.live](https://victordelattre.live)
